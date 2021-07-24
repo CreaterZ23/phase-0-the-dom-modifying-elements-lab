@@ -78,6 +78,10 @@ Note that, each time we create a new element, we create a variable and save a
 reference to it. That makes it quite easy to make additional updates and to add
 it to the DOM using `appendChild()`.
 
+//what does it mean to pass by value in Javascript?
+//what does it mean to pass by ref in js?
+
+
 ## Add Elements to the DOM via `innerHTML`
 
 Creating elements and then appending them into the DOM is a multi-step process.
